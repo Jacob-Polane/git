@@ -1,3 +1,3 @@
 # 💥 Our Team Superpowers
 
-- Willem: Can can code like a wizard🧝‍♂️
+- Jane Doe: Can write bug-free code while blindfolded
