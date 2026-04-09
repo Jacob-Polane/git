@@ -3,3 +3,6 @@
 - Jane Doe: Can write bug-free code while blindfolded
 
 - Nhlakanipho Masilela: Can read minds.
+
+- Thotogelo Mankwe: Code Superpower.
+
