@@ -1,0 +1,6 @@
+1. Forked the repository to my GitHub account.
+2. Created an issue and assigned it to myself.
+3. Cloned the repository to my local machine.
+4. Created a branch named feature/thato.
+5. Edited superpowers.md and added my name and superpower.
+6. Created a text file documenting my steps.
